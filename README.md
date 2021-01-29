@@ -1,5 +1,6 @@
 # C++案例试炼：机房预约系统
 
+- [CSDN文章解释地址](https://zhiqianghe.blog.csdn.net/article/details/108700890)
 
 &emsp;&emsp;机房预约系统需求：学校存在几个机房，但是由于大家使用的时间基本都是一样的，所以需要设计一个预约系统来解决这一问题。
 
