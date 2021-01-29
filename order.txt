@@ -1,0 +1,1 @@
+date:2 period:2 stuId:1 stuName:zhangsan roomId:2 status:1
